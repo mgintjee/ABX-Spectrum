@@ -1,0 +1,377 @@
+<resources>
+
+    <string name="header_00_gpc_title">GRAM POSITIVE COCCI
+    </string>
+    <string name="header_01_gnb_title">GRAM NEGATIVE BACILLI
+    </string>
+    <string name="header_02_ana_title">ANAEROBES
+    </string>
+    <string name="header_03_aty_title">ATYPICALS
+    </string>
+
+    <string name="header_00_gpc_info">
+        Enterococcus, Staphylococcus, &amp; Streptococcus.
+        \n\nVR = Vancomycin Resistant Enterococcus
+        \nMR = Methicillin-Resistant Staph. Aureus
+    </string>
+    <string name="header_01_gnb_info">
+        Community Infections
+        \nGI = Proteus, E. Coli, &amp; Klebsiella - "PEK"
+        \nResp = Haemophilus influenzae, &amp; Moraxella
+        \n\nNosocomial Infections
+        \nSPACE(M) = Serratia, Providencia, Acinetobacter, Citrobacter, Enterobacter, &amp; Morganella.
+        \nPseudo. = Pseudomonas Aeruginosa (water)
+    </string>
+    <string name="header_02_ana_info">
+        Head/Neck anaerobes:
+        \nBacteroides (fragilis), Veillonella, Bifidobacteria, Peptococcus, Peptostreptococcus, &amp; Propionibacterium
+        \nLower anaerobes: (More virulent with more resistance)
+        \nBacteroides (non-fragilis), Prevotella, Clostridium
+    </string>
+    <string name="header_03_aty_info">
+        Legionella - older patients\nChlamydia - younger patients
+        \nMycoplasma - younger patients
+    </string>
+
+    <string name="abx_00_pcn_title">PENICILLINS
+    </string>
+    <string name="abx_01_amp_title">AMINOPENICILLINS
+    </string>
+    <string name="abx_02_ant_title">ANTISTAPH PENICILLINS
+    </string>
+    <string name="abx_03_aug_title">ANTISTAPH PENICILLIN/BETA-LACTAMASE INHIBITOR
+    </string>
+    <string name="abx_04_zos_title">ZOSYN
+    </string>
+    <string name="abx_05_1gc_title">1st GENERATION CEPHALOSPORINS
+    </string>
+    <string name="abx_06_2gc_title">2nd GENERATION CEPHALOSPORINS
+    </string>
+    <string name="abx_07_3gc_title">3rd GENERATION CEPHALOSPORINS
+    </string>
+    <string name="abx_08_4gc_title">4th GENERATION CEPHALOSPORINS
+    </string>
+    <string name="abx_09_5gc_title">5th GENERATION CEPHALOSPORINS
+    </string>
+    <string name="abx_10_avy_title">CEPHALOSPORIN/BETA-LACTAMASE INHIBITOR
+    </string>
+    <string name="abx_11_car_title">CARBAPENEMS
+    </string>
+    <string name="abx_12_mon_title">MONOBACTAMS
+    </string>
+    <string name="abx_13_ami_title">AMINOGLYCOSIDES
+    </string>
+    <string name="abx_14_flu_title">FLUOROQUINOLONES
+    </string>
+    <string name="abx_15_mac_title">MACROLIDES
+    </string>
+    <string name="abx_16_tet_title">TETRACYCLINES
+    </string>
+    <string name="abx_17_van_title">GLYCOPEPTIDES/LIPOGLPEPTIDES
+    </string>
+    <string name="abx_18_oxa_title">OXAZOLIDINONES
+    </string>
+    <string name="abx_19_dap_title">LIPOPEPTIDES
+    </string>
+    <string name="abx_20_cli_title">CLINDAMYCIN
+    </string>
+    <string name="abx_21_tig_title">GLYCYCLINES
+    </string>
+    <string name="abx_22_met_title">METRONIDAZOLE (FLAGYL)
+    </string>
+    <string name="abx_23_bac_title">TRIMETHOPRIM/SULFAMETHOXAZOLE (BACTRIM)
+    </string>
+
+    <string name="abx_00_pcn_info">
+        Penicillin G (IV,IM) [Aq,Benzathine]
+        \nPenicillin VK (PO)
+    </string>
+    <string name="abx_01_amp_info">
+        Ampicillin (IV)
+        \nAmoxicillin (PO)
+        \n\nNo Klebsiella activity
+    </string>
+    <string name="abx_02_ant_info">
+        Oxacillin (IV)
+        \nNafcillin (IV)
+        \nDicloxacillin (PO)
+        \n\nHEPATIC ELIMINATION
+        \nCoag(-) staph. is generally resistant (>80%)
+    </string>
+    <string name="abx_03_aug_info">
+        Augmentin (Amoxicillin/Clavulanate) (PO)
+        \n\nUnasyn only covers acinetobacter (SPACE)
+        \nRising e. coli resistance
+        \n*Only treats H/N anaerobes
+    </string>
+    <string name="abx_04_zos_info">
+        Zosyn (Piperacillin/Tazobactam) (IV)
+        \n\nPoor activity versus coag(-) staph.
+        \n*Can treat lower anaerobes
+    </string>
+    <string name="abx_05_1gc_info">
+        Cefazolin (IV) "Ancef"
+        \nCephalexin (PO)
+        \n\nCefazolin can be used in penicillin allergy
+        \nCefazolin has some G(+) coverage for prophylaxis
+    </string>
+    <string name="abx_06_2gc_info">
+        Cefuroxime (PO,IV)
+        \nCefotetan (IV)
+        \nCefoxitin (IV)
+        \n\nCefuroxime gains h. flu, enterobacter, neisseria
+        \nCefotetan &amp; Cefoxitin are cephamycins
+        \nCefotetan &amp; Cefoxitin lack G(+) coverage
+    </string>
+    <string name="abx_07_3gc_info">
+        Ceftriaxone (IV) "Rocephin"
+        \nCefotaxime (IV)
+        \nCefpodoxime (PO)
+        \nCefdinir (PO)
+        \nCefixime (PO)
+        \nCeftazidime (IV) *Antipseudomonal activity
+        \n\nNO RENAL ADJUSTMENT (Ceftriaxone only)
+        \n\nCeftazidime lacks G(+) cover
+        \nCeftriaxone penetrates CSF
+        \nAvoid Ceftriaxone if low AmpC lactamase levels
+    </string>
+    <string name="abx_08_4gc_info">
+        Cefepime (IV)
+        \n\nAvoid use with mid/high AmpC levels
+        \nLow cross-react with penicillin allergy
+    </string>
+    <string name="abx_09_5gc_info">
+        Ceftaroline (IV)
+        \n\n*Often reserved for refractory MRSA or VRSA
+    </string>
+    <string name="abx_10_avy_info">
+        Zerbaxa (Ceftolozane/Tazobactam) (IV)
+        \nAvycaz (Ceftazidime/Avibactam) (IV)
+        \n\nLimited FDA-approved indications
+        \nAvycaz can be used for ESBL &amp; CRE (KPC only)
+        \nZerbaxa can be used for ESBL
+    </string>
+    <string name="abx_11_car_info">
+        Meropenem (IV)
+        \nImipenem/Cilastatin (IV)
+        \nErtapenem (IV)
+        \nDoripenem (IV)
+        \n\n*Often reserved for ESBL (DOC)
+        \n*Can treat lower anaerobes
+        \nMay cause seizures (Imipenem/Cilastatin more than others)
+        \nErtapenem lacks acinetobacter coverage
+        \n\nCilastatin px imipenem breakdown
+    </string>
+    <string name="abx_12_mon_info">
+        Aztreonam (IV)
+        \n\n*Often reserved for PCN-allergic patients
+    </string>
+    <string name="abx_13_ami_info">
+        Amikacin (IV,IM)
+        \nGentamicin (IV,IM)
+        \nTobramycin (IV,IM)
+        \n\nCauses nephrotoxicity
+        \n*Can use low dose w/ beta-lactam for G(+) synergy
+    </string>
+    <string name="abx_14_flu_info">
+        Levofloxacin (IV,PO)
+        \nCiprofloxacin (IV,PO)
+        \nMoxifloxacin (IV,PO)
+        \n\nMay cause QT-prolongation (M>C>L)
+        \n*Moxi. does not concentrate in the urine well
+        \n*Moxi only treats H/N anaerobes\nSeparate dosing from polyvalent cations
+    </string>
+    <string name="abx_15_mac_info">
+        Azithromycin (PO,IV)
+        \nClarithormycin (PO)
+        \n\nBACTERIOSTATIC
+        \n\nCauses QT prolongation
+        \nDistributes rapidly/well to tissue, but not blood
+    </string>
+    <string name="abx_16_tet_info">
+        Doxycycline (IV,PO)
+        \nMinocycline (IV,PO)
+        \n\nBACTERIOSTATIC
+        \n\nTake with water to px esophagitis
+        \nSeparate dosing from polyvalent cations
+    </string>
+    <string name="abx_17_van_info">
+        Vancomycin (IV,PO)
+        \nDalbavancin, Oritavancin, Televancin (IV)
+        \n\nHigh Trough Goal: Endocarditis, OM/PJI, ICU HCAP/sepsis &amp; MRSA (MIC=1)
+        \nVery High Trough Goal: Meningitis/CNS Infections
+        \n\nCauses nephrotoxicity
+        \nPO formulation for c. diff only (DOC)
+        \nPrevent Red Man Synd. by slowing infusion
+        \n\n-Vancins cover G(+) anaerobes\nOritavancin covers VRE
+    </string>
+    <string name="abx_18_oxa_info">
+        Linezolid (IV,PO)
+        \nTedizolid (IV,PO) -reserved for resistance
+        \n\nBACTERIOSTATIC (except strep. sp)
+        \n\nCauses myelosuppression with prolonged use (>2w)
+        \nMay cause serotonin syndrome
+    </string>
+    <string name="abx_19_dap_info">
+        Daptomycin (IV)
+        \n\n*No activity in the lung (inactivated)
+    </string>
+    <string name="abx_20_cli_info">
+        Clindamycin (IV,PO)
+        \n\nBACTERIOSTATIC
+        \n\nCA: Covers community acquired-MRSA
+        \n*Only treats H/N anaerobes
+    </string>
+    <string name="abx_21_tig_info">
+        Tigecycline (IV)
+        \n\nHEPATIC METABOLISM\nBACTERIOSTATIC (Except strep. pneumo &amp; listeria)
+        \n\nUsed primarily for G(-) coverage
+        \nLacks Proteus, Providencia, &amp; Pseudomonas coverage
+        \nCan treat Acinetobacter if MIC\u003clt4\nPotentially effective for nosocomial MRSA
+        \n\n*Does not concentrate well in blood or urine
+        \nConcentrates well in lung &amp; abdomen
+        \n\nCovers ESBL &amp; CRE if desperate
+        \nBBW: Increase in all-cause mortality
+    </string>
+    <string name="abx_22_met_info">
+        Metronidazole (IV, PO)
+        \n\n*Can treat lower anaerobes
+    </string>
+    <string name="abx_23_bac_info">
+        TMP/SMX (PO, IV)
+        \n\nCA: Covers community acquired-MRSA
+        \nSULFA DRUG
+        \nDosed based on TMP component
+        \nDoes not concentrate in the blood well
+        \nCauses hyperkalemia &amp; pseudo-sCr elevation
+        \n\nDOC: Stenotrophomonas Maltophilia
+    </string>
+
+    <string name="edit_text">Edit my comments on:\n
+    </string>
+    <string name="delete_comments">Are you sure you wish to delete ALL comment files?
+    </string>
+
+    <string name="helpContent">
+        > Regarding The Application:
+
+        \n\n-> Scrolling:
+        \n—> Users can scroll up &amp; down in the chart &amp; as well as in the popups.
+
+        \n\n-> Clicking:
+        \n—> Almost all of the graphics in this app are image buttons that the user can press. Once pressed the corresponding popup will display itself.
+
+        \n\n> Regarding The Buttons At The Bottom:
+
+        \n\n-> \'Delete All Comments\':
+        \n—> This button will delete all of the user comments that they have saved throughout the use of the app resetting the comments to the default.
+
+        \n\n-> \'Disable Comments\':
+        \n—> This button will hide any comments that the user has made or the default values, as well as the edit comment button. The button shows what will happen when you click on it.
+        \n——> E.G. if it says \'Disable Comments\', when clicked it will then disable the comments.
+
+        \n\n-> \'Help Figuring This Out\':
+        \n—> This button shows a WIP guide of how to use this app. It will continue to change according to the feedback that the users give.
+
+        \n\n-> \'About ABX Spectrum\':
+        \n\—> This button gives a brief description of the developers &amp; the intended use for this application.
+    </string>
+
+    <string name="aboutContent">
+        >About this App:
+        \n-> Target Audience:
+        \n—> Pharmacy students.
+        \n-> This is a mobile application that covers the types of bacteria, the header of the chart, &amp; the corresponding antibiotics that should be used to combat them, the bottom of the chart.
+        \n-> This application should be considered useful to pharmacy students &amp; those that would like to know about antibiotic coverage against bacteria.
+
+        \n\n> This application was commissioned by Thomas Gintjee &amp; Rozhan Sadr.
+
+        \n\n> Team:
+        \n-> Matthew Gintjee: Code
+        \n-> Thomas Gintjee: Graphics, Content
+        \n-> Rozhan Sadr: Content
+
+        \n\n> Changelog:
+
+        \n\n->Version 1.14 ( Current ):
+        \n—> Reformatted the Help about this app to look prettier.
+        \n—> Hide the android navigation bar.
+        \n——> The black bar at the bottom of the screen that has a triangle, circle, and square.
+
+        \n\n->Version 1.13:
+        \n—> Updated all string with \'&amp;\' in place of \'and\'.
+        \n—> Reformatted the changelog to look prettier.
+        \n—> Reformatted the About this app to look prettier.
+
+        \n\n->Version 1.12:
+        \n—> Added Changelog to the About popup
+        \n—> Enabled the app to rotate when device rotates
+
+        \n\n-> Version 1.11:
+        \n—> Fixed ABOUT popup\'s format to match the other popups
+        \n—> Reformatted HELP\'s text to be more clear ( Hopefully )
+
+        \n\n-> Version 1.10:
+        \n—> Added 4 Buttons at the bottom of the chart.
+        \n——> \"Delete All Comments\"
+        \n————> Resets all of the user comments to "Empty" when pressed &amp; the user confirms the dialog.
+        \n——> \"Disable\\Enable Comments\"
+        \n————> Enables the user to choose whether or not the comments are displayed.
+        \n————> The button shows WHAT WILL HAPPEN when the user presses the button.
+        \n——> \"Help Figuring This Out\"
+        \n————> A very basic guide to the application.
+        \n——> \"About ABX Spectrum\"
+        \n————> Gives a very brief description of the application.
+        \n————> Contains the changelog, &amp; the development team information.
+
+        \n\n-> Version 1.9:
+        \n—> Enabled users to have their own local comments regarding any of the popups
+        \n——> While in a popup activity, there is a new button on the bottom right of the screen, clicking this will call a dialog to either save a new comment or cancel the dialog
+        \n—> Added Button at bottom of chart that will delete all of the user comment files, replacing them with the default ones
+        \n—> Reformatted code to be more modular, but in theory should have same performance
+
+        \n\n-> Version 1.8 ( Skipped 1.6 &amp; 1.7 due to issues uploading APK ):
+        \n—> Modified popups so that the title text &amp; the description text are closer
+
+        \n\n-> Version 1.5:
+        \n—> Changed "Dismiss" from circle shape to square shape
+        \n—> Updated Gram positive, gram negative, &amp; atypical images
+
+        \n\n-> Version 1.4:
+        \n—> Updated ALL Images, thanks to T. Gintjee
+        \n—> Formatted popup to reduce any overlap between text(s) &amp; dismiss button ( Unless the screen is super small )
+        \n—> Organized code to be far prettier than what it used to be
+        \n——> Now the popups use a popup template that is modified by which button you click. Not that anyone will be able to notice.
+
+        \n\n-> Version 1.3:
+        \n—> Updated/Corrected description text in a few popups
+        \n—> Updated images: 5G, Mac, &amp; Car
+        \n—> Updated dismiss button
+
+        \n\n-> Version 1.2:
+        \n—> Fixed bug where Clin would have Dap popup
+
+        \n\n-> Version 1.1:
+        \n—> Added Extra new-lines to the ends of text to allow more visibility
+
+        \n\n-> Version 1.0:
+        \n—> Moved Dismiss Button to Bottom Right
+        \n—> Text Boxes are scroll-able from the entire space below title
+    </string>
+
+
+    <string name="aboutHeader">About this Application ( W.I.P. )
+    </string>
+    <string name="helpHeader">Help ( W.I.P. )
+    </string>
+
+    <string name="myComments">My Comments:
+    </string>
+    <string name="desc">imageDescription
+    </string>
+    <string name="temp">tempHolder
+    </string>
+    <string name="app_name">ABX Spectrum
+    </string>
+
+</resources>
