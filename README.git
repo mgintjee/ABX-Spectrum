@@ -1,1 +1,16 @@
-//TODO
+Interactive chart of spectrum of activity of major antibiotic classes against common bacteria. 
+
+Each entry in the table, including the headers, are buttons that will create a popup with relevant information. Users can save their own comments for each of the possible popups. Or disable this feature if they so choose. 
+
+For study and learning use only. 
+
+Team:
+Matthew Gintjee: Code
+Thomas Gintjee: Graphics, Content
+Rozhan Sadr: Content
+
+This application was commissioned by Thomas Gintjee and Rozhan Sadr.
+
+Please email happybananastudio@gmail.com if you find any errors.
+
+Play Store: https://play.google.com/store/apps/details?id=com.happybananastudio.abxspectrum
